@@ -1,0 +1,10 @@
+* stumpwm-dynamic-float
+
+An extension to StumpWM providing floating windows with dynamic tiling.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jcguu95/stumpwm-dynamic-float.git   |
+| commit  | b750d1b  |
+| systems | stumpwm-dynamic-float |
+|---------+-------------------------------------------|
+
